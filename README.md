@@ -5,7 +5,7 @@ It can be used with a variety of options
 Speed of scanning can also be controlled
 And it is lot faster than conventional tools like NMAP
 
-#Installation
+# Installation
 
 sudo git clone https://github.com/HarshitJosh1/Portmapper.git
 
@@ -15,7 +15,11 @@ sudo chmod +x setup.sh
 
 sudo bash setup.sh
 
-#Arguments
+# Mandatory Argument
+
+-ip or --host - Target IP To Scan
+
+# Optional Arguments
 
 -h or --help - For Help
 
@@ -25,8 +29,6 @@ sudo bash setup.sh
 
 -e or --end_port - Port Number To end scan
 
-#Mandatory Argument
 
--ip or --host - Target IP To Scan
 
 
