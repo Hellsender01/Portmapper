@@ -27,7 +27,7 @@ sudo bash setup.sh
 
 -s or --start_port - Port Number to start scan From
 
--e or --end_port - Port Number To end scan
+-e or --end_port - Port Number To end scan At
 
 
 
